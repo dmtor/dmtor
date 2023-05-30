@@ -36,3 +36,14 @@ Este proyecto consiste en un entregable desarrollado para el bootcamp de Data Sc
 
 ![Cambios climáticos extremos](./Imagenes/datos-climaticos.jpg)
 
+Proyecto de Análisis Exploratorio de Datos (EDA), el cual se desarrolló como parte de mi formación en la escuela The Bridge. Se enfoca en el estudio de eventos climáticos extremos en España. Mediante el análisis de variables como temperatura, precipitación y viento, se busca identificar patrones, tendencias y la frecuencia de estos eventos. El objetivo es comprender mejor el comportamiento climático y sus implicaciones con el estudio de 820 estaciones clímaticas en el periodo 2014-2022.
+
+![Prediccion seguros](./Imagenes/prediccion-seguros.jpg)
+
+![Politicas_azules](./Imagenes/politicasazules.jpg)
+
+## 🚧 work in progress
+
+![Quemadas](./Imagenes/quemadas.jpg)
+
+
