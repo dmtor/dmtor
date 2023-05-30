@@ -29,7 +29,7 @@
 
 ## 💼 Mis proyectos
 
-![Hundir la flota](./Imagenes/hundir.jpg)
+<a href="https://github.com/dmtor/Hundir-la-Flota"><img src="./images/hundir.jpg" alt="Hundir la flota" /></a><br />
 
 Este proyecto consiste en un entregable desarrollado para el bootcamp de Data Science de The Bridge para mostrar las habilidades adquiridas de programación en Python. El código consiste en el juego "Hundir la Flota", donde un jugador/a se bate en duelo con la consola. Los barcos de ambos jugadores de colocarán de forma aleatoria en un tablero de 10x10 posiciones y, por turnos, dispararán a las posiciones con el objetivo de hundir la flota completa del enemigo. Puedes comprobar el repositorio [aqui](https://github.com/dmtor/Hundir-la-Flota). 
 
@@ -42,7 +42,7 @@ Proyecto de Análisis Exploratorio de Datos (EDA), el cual se desarrolló como p
 
 ![Politicas_azules](./Imagenes/politicasazules.jpg)
 
-## 🚧 work in progress
+## 🚧 En proceso
 
 ![Quemadas](./Imagenes/quemadas.jpg)
 
