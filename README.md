@@ -7,7 +7,6 @@
 - 👀 Observador
 - 📝 Siempre aprendiendo
 - 💪🏼 Listo para nuevos retos
-- 👾 Geek
 
 ## 🔧 Tecnologías y herramientas
 
