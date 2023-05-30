@@ -31,13 +31,14 @@
 
 <a href="https://github.com/dmtor/Hundir-la-Flota"><img src="./Imagenes/hundir.jpg" alt="Hundir la flota" /></a><br />
 
-Este proyecto consiste en un entregable desarrollado para el bootcamp de Data Science de The Bridge para mostrar las habilidades adquiridas de programación en Python. El código consiste en el juego "Hundir la Flota", donde un jugador/a se bate en duelo con la consola. Los barcos de ambos jugadores de colocarán de forma aleatoria en un tablero de 10x10 posiciones y, por turnos, dispararán a las posiciones con el objetivo de hundir la flota completa del enemigo. Puedes comprobar el repositorio [aqui](https://github.com/dmtor/Hundir-la-Flota). 
+Este proyecto consiste en un entregable desarrollado para el bootcamp de Data Science de The Bridge para mostrar las habilidades adquiridas de programación en Python. El código consiste en el juego "Hundir la Flota", donde un jugador/a se bate en duelo con la consola. Los barcos de ambos jugadores de colocarán de forma aleatoria en un tablero de 10x10 posiciones y, por turnos, dispararán a las posiciones con el objetivo de hundir la flota completa del enemigo. Puedes comprobar el repositorio [aqui](https://github.com/dmtor/Hundir-la-Flota).<br />
 
-
+---
 ![Cambios climáticos extremos](./Imagenes/datos-climaticos.jpg)
 
 Proyecto de Análisis Exploratorio de Datos (EDA), el cual se desarrolló como parte de mi formación en la escuela The Bridge. Se enfoca en el estudio de eventos climáticos extremos en España. Mediante el análisis de variables como temperatura, precipitación y viento, se busca identificar patrones, tendencias y la frecuencia de estos eventos. El objetivo es comprender mejor el comportamiento climático y sus implicaciones con el estudio de 820 estaciones clímaticas en el periodo 2014-2022.
 
+---
 ![Prediccion seguros](./Imagenes/prediccion-seguros.jpg)
 
 ![Politicas_azules](./Imagenes/politicasazules.jpg)
