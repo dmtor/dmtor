@@ -54,6 +54,6 @@ El proyecto final del bootcamp se centra en el "Desafío de Tripulaciones", dond
 
 ![Quemadas](./Imagenes/quemadas.jpg)
 
-Actualmente estoy trabajando en un proyecto que utiliza redes neuronales U-Net para identificar zonas afectadas por incendios forestales, mediante mi propio conjunto de imágenes multiespectrales obtenidas por el satélite Sentinel II gracias al programa Copernicus.
+Actualmente, estoy trabajando en un proyecto que utiliza redes neuronales U-Net para identificar zonas afectadas por incendios forestales, mediante mi propio conjunto de imágenes multiespectrales obtenidas a través del satélite Sentinel II, gracias al programa Copernicus.
 
 
